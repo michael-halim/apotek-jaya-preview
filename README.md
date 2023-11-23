@@ -31,3 +31,8 @@
 - Salary Management: Connect benefits and departments to salary information, allowing for a detailed approach to salary management.
 
 - Monthly Salary Reports: Generate insightful monthly salary reports effortlessly, providing a clear overview of financial data.
+
+
+
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/5d6f574a-aaeb-4954-95d1-ba10d558ba8d
+
