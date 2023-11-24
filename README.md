@@ -36,71 +36,71 @@
 
 ## Employees Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/5d6f574a-aaeb-4954-95d1-ba10d558ba8d
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/abc01a1a-714f-4c3a-a163-6c1837ef3d09
 
 ## Permissions Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/e6d05079-a59c-4682-9dae-348acec8f097
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/846d6320-1562-44ad-b58f-776efb385aad
 
 ## Departments Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/00ecfce4-de8d-4f1e-8466-9d95a36af85f
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/79c0e28e-55ea-4910-ab1a-ef7c2d93618d
 
 ## Employee Benefits Module
 
 ### Benefit Categories Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/31265936-1c7d-4426-a282-e8dd56f12efb
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/fa2257c5-490f-4c75-9a92-cfa0db2a571e
 
 ### Benefits Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/8018577f-bf06-4a08-a036-e6925715dc9b
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/0f1b341c-4682-4935-8eae-36d029ebacc1
 
 ### Benefit Scheme Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/b283ea3f-11c6-456c-999d-4aaf35604cc5
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/b44c1fbb-7ccd-4c48-97ce-57f985793ef6
 
 ### PTKP Type Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/564cf0c9-cdb1-4727-960b-7166167a6a90
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/8189ff6d-b6a2-4fc8-b09e-b8d3686cc7a7
 
 ## Salary Module
 
 ### Payroll Period Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/f261ef82-a3cd-4938-ba90-05d37a8c61da
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/cde6476a-83d5-4398-8be6-d9e4a689d3e5
 
 ### Salaries Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/449bfa01-a9a2-4f0d-b1e7-d48953a41323
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/6c4039cf-dd1a-4477-b83b-21aed478cabf
 
 ## Presences Module
 
 ### Presences Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/f6da318e-5c5f-4734-96d1-4ed7042a85ca
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/3412237b-eea9-40d4-ad1f-6c4c7480f89a
 
 ### Leave Balances Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/330d7a36-c5e0-47e1-b2f0-f44824910582
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/2450ee1f-24bd-41a0-871e-6565e4906ac6
 
 ### Leaves Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/b5cb67be-6629-4da4-abd6-aeb31e597c78
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/a86df551-b1dd-4bcd-aae4-a05cb1f2422d
 
 ### Overtimes Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/d8732d16-36c7-40b9-9eb7-9f1ff5547e26
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/c9b14869-85be-48b6-ba66-167e27aceff1
 
 ## Reports Module
 
 ### Report Salary Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/cfd58379-d8fa-4a37-9991-92f13bf30536
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/006c6059-abc0-40c2-b2e3-ae845a8021da
 
 ### Report Presence Module
 
-https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/8a96ecda-0c8e-4a4c-80dc-be01dc93340b
+https://github.com/michael-halim/apotek-jaya-preview/assets/77791102/75a79e14-d898-4f29-b58c-2d386786456c
 
 
 
